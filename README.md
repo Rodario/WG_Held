@@ -1,4 +1,4 @@
-melonJS boilerplate
+MelonJS Boilerplate
 -------------------------------------------------------------------------------
 
 features :
